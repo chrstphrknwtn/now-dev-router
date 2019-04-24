@@ -1,0 +1,16 @@
+{
+  "name": "now-dev-router",
+  "version": "0.0.0",
+  "description": "Use Zeit Now v2 routes in a custom server.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrstphrknwtn/now-dev-router.git"
+  },
+  "author": "Christopher Newton (https://github.com/chrstphrknwtn)",
+  "license": "MIT",
+  "dependencies": {
+    "pcre-to-regexp": "0.0.5",
+    "url-parse": "^1.4.6"
+  }
+}
