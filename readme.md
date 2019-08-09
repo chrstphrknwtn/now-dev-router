@@ -1,3 +1,7 @@
+# -- Deprecated --
+This was just a band-aid whilst the `now dev` command support for routes was
+poor. This package is deprecated in favour of using `now dev` directly.
+
 # now-dev-router
 
 A bandaid router for using
